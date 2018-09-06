@@ -23,7 +23,7 @@
 
 
 //////////////////////////////////////////////////
-// Borrowed LEB128 stuff from 
+// Borrowed LEB128 stuff from DEX template
 //////////////////////////////////////////////////
 
 // struct to read a uleb128 value. uleb128's are a variable-length encoding for
